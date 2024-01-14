@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>Hello Laravel App</h1>
+    <p>Kawasakislot</p>
     <hr>
     <div id="app-vue"></div>
     @vite('resources/js/app.js')
